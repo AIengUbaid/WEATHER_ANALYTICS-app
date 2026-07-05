@@ -2,6 +2,8 @@ Real-Time Multi-City Weather Analytics
 
 A live weather dashboard built with Python and Streamlit that fetches real-time weather data for multiple cities using the OpenWeatherMap API.
 
+![App Screenshot](Screenshots/Screenshot 2026-07-05 112129.png)
+
 Features:
 Live temperature, humidity, wind speed and weather conditions
 Automatic data structuring with Pandas
