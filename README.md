@@ -5,19 +5,19 @@ A live weather dashboard built with Python and Streamlit that fetches real-time 
 ![App Screenshot](Screenshots/Screenshot 2026-07-05 112129.png)
 
 Features:
-Live temperature, humidity, wind speed and weather conditions
-Automatic data structuring with Pandas
-Visual comparisons with bar charts
-Hottest, coldest and most humid city insights
-Robust error handling for API failures and network issues
+- Live temperature, humidity, wind speed and weather conditions
+- Automatic data structuring with Pandas
+- Visual comparisons with bar charts
+- Hottest, coldest and most humid city insights
+- Robust error handling for API failures and network issues
 
 Technologies Used:
-Python, Streamlit, Pandas, Requests
-OpenWeatherMap API
-Environment variables for secure API key management
+- Python, Streamlit, Pandas, Requests
+- OpenWeatherMap API
+- Environment variables for secure API key management
 
 How to Run:
-Clone the repo
-Install requirements: pip install streamlit pandas requests python-dotenv
-Add your OpenWeatherMap API key to a .env file as OPENWEATHERMAP_API_KEY=your_key
-Run: streamlit run weather_pre.py
+1. Clone the repo
+2. Install requirements: pip install streamlit pandas requests python-dotenv
+3. Add your OpenWeatherMap API key to a .env file as OPENWEATHERMAP_API_KEY=your_key
+4. Run: streamlit run weather_pre.py
